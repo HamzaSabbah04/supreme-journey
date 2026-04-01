@@ -12,11 +12,18 @@ The rapid advancement of automation and robotics has significantly transformed m
 ## Project Resources
 - [Project Proposal](https://www.youtube.com/watch?v=ew--i5Sx-hU&t=1s)
 - [Notebook 1]()
-- [Slides](#)
+- [Slides](slides.pdf)
 - [Shared Folder](#)
 - [Video Demo](#)
 ## Results
-Write 2–4 sentences explaining what your project is about and what you found.
+The smart pick-and-place robotic system successfully performed object detection, picking, and placement within the defined workspace.
+
+The mechanical and electronic components worked reliably, providing stable motion and accurate signal processing.
+
+The control system ensured precise positioning with minimal error, resulting in smooth and consistent operation.
+
+The integrated design demonstrated an efficient and functional mechatronic system that achieved the project objectives.
+
 ## Bibliography
 - Source 1
 - Source 2
