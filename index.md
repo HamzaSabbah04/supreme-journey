@@ -1,14 +1,16 @@
 # My Project Website
 ## Team Members
 - Your Name
-- Partner Name
+- Omar Khaled
+- Khaled Jalal
+- Abdelaziz Omran
 ## Project Question
-How can we design and test a simple project website using GitHub Pages?
+The project goal is to design and implement an integrated smart pick-and-place robotic system that combines mechanical, electronic, control, and computer engineering principles into a unified solution.
 ## Background
 This site collects our project materials, notes, and deliverables.
 ## Project Resources
-- [Project Proposal](#)
-- [Notebook 1](#)
+- [Project Proposal](https://www.youtube.com/watch?v=ew--i5Sx-hU&t=1s)
+- [Notebook 1]()
 - [Slides](#)
 - [Shared Folder](#)
 - [Video Demo](#)
